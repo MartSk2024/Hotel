@@ -63,4 +63,4 @@ public class Room {
     public void setSeaView(boolean seaView) {
         isSeaView = seaView;
     }
-}
+}//konec třídy
